@@ -8,7 +8,7 @@
 
 - 后端：Django + MySQL
 - 前端：Vue + ECharts
-- 文件存储：腾讯云 COS（如项目中使用）
+- 文件存储：腾讯云 COS
 
 ---
 
