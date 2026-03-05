@@ -40,7 +40,7 @@ weather_project/
 
 ## 🚀 运行方式
 
-### 1️⃣ 后端运行（Django）
+1️⃣ 后端运行（Django）
 
 在项目根目录执行：
 
